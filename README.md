@@ -13,9 +13,10 @@ git clone https://github.com/EricaRueda10/PruebaTecnica.git
 Se debe tener la BD PostgreSQL ejecutándose y un esquema creado.
 
 Base de datos: loginbd
-Tabla: <img width="128" alt="{14BC7C49-6964-45D3-8331-3F1EB7F02FE2}" src="https://github.com/user-attachments/assets/881972ee-3822-4403-aa46-5e7947d49f61" />
-
 <img width="68" alt="{58FFD9CB-5009-479F-BD88-D74AEDFC9647}" src="https://github.com/user-attachments/assets/43d66630-c2fa-43c0-8c96-93e693a4d32d" />
+
+Tabla: 
+<img width="128" alt="{14BC7C49-6964-45D3-8331-3F1EB7F02FE2}" src="https://github.com/user-attachments/assets/881972ee-3822-4403-aa46-5e7947d49f61" />
 
 Usuario: postgres
 
