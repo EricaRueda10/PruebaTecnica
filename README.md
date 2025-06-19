@@ -37,6 +37,8 @@ Ejemplo de login con curl:
 
 curl -X POST http://localhost:8080/api/auth/login  -H "Content-Type: application/json" -d '{"username": "evelyng", "password": "evelyngpass"}'
 
+<img width="406" alt="{88368F9E-322C-4248-A487-65BADBA4D44B}" src="https://github.com/user-attachments/assets/dfecdb1d-17f9-4515-9611-54e284eff28a" />
+
 Ejemplo de json para probar en postman:
 
 <img width="492" alt="{2A5D86E5-DD17-4E40-A78D-057D1A5CD78E}" src="https://github.com/user-attachments/assets/f473d358-d36f-4a14-954f-f2bd31ba9279" />
